@@ -3,6 +3,7 @@
 
 # Compiled Object files
 *.slo
+*.uni
 *.lo
 *.o
 *.obj
@@ -40,6 +41,8 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+*.blend1
+*.vdb
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -72,3 +75,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
